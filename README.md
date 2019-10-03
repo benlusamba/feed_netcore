@@ -1,6 +1,6 @@
 # MSFT .NET Data Extraction
 
-This .NET solutuon automates XML / JSON data extraction, to feed Machine Learning and Quant Finance applications
+This .NET solutuon automates XML / JSON extraction and parsing, to feed Machine Learning and Quant Finance applications
 
 **Repository Components**:
 
