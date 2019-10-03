@@ -1,0 +1,10 @@
+/* Read source DB */
+
+USE [SOURCE_DB]
+GO
+
+SELECT COL_A, COL_B
+
+FROM [SOURCE DB]
+
+WHERE [AUDIT] is > [FILTER]
