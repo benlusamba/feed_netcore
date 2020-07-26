@@ -1,11 +1,11 @@
 # .NET Core Data Extraction
 
-This .NET Core solutuon automates XML / JSON extraction and parsing, to feed Machine Learning and Quant Finance applications
+Automates XML / JSON extraction and parsing for ML
 
 # System Dependencies:
 
-.NET CORE 3.1
+[.NET CORE 3.1](https://dotnet.microsoft.com/download/dotnet-core) (Use platform-appropriate verison)
 
-**Repository Components**:
+# Repository Components**:
 
 Under construction...
