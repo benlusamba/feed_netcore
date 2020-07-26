@@ -10,6 +10,6 @@ Automates XML / JSON extraction and parsing for ML
 
 ### Repository Components:
 
-- [DB SQL Needs](../tree/master/sql)
+- [DB SQL Needs](https://github.com/benlusamba/feed_netcore/tree/master/sql)
 - ML API (TBD)
 - Front End (TBD)
